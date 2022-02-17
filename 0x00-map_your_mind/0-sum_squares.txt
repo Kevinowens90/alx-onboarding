@@ -1,0 +1,6 @@
+Write "Please enter the number you want the square of: "
+Read num
+
+Write"The square of the number entered is: "
+Set square to (num * num)
+Write square
